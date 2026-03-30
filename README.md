@@ -1,0 +1,1 @@
+In this project, the goal was to write a thief and police game code in C. The main objective of this game is to reach escape point without being caught by the computer-controlled police. The game features two different difficulties.
